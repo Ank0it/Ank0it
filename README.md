@@ -28,8 +28,7 @@
 ---
 
 ## 🌍 Let’s Connect
-- 📧 Email: [patel2712ankit@gmail.com](mailto:patel2712ankit@gmail.com)  
-- 📱 Phone: +91 7880947773  
+- 📧 Email: [patel2712ankit@gmail.com](mailto:patel2712ankit@gmail.com)   
 - 🔗 GitHub: [@Ank0it](https://github.com/Ank0it)  
 - 💼 Open to **internships** in Web Dev / AI SaaS 🚀  
 
