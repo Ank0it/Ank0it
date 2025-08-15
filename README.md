@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ankit Patel (@Ank0it) 
 
-🎓 3rd-year CSE undergrad, Specializing in Artificial Intelligence at the University of Lucknow (2026 batch).  
+🎓 4th-year CSE undergrad, Specializing in Artificial Intelligence at the University of Lucknow (2026 batch).  
 🌟 Passionate about building impactful web apps and AI-powered tools to make lives easier.  
 
 ---
