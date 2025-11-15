@@ -116,7 +116,10 @@ const ankit = {
 | 🌍 **[Carbon Emission Predictor](https://github.com/Ank0it/Carbon-Emission-Predictor)** | ML-powered carbon footprint analyzer | `TypeScript` `Next.js` `ML` | [Visit →](https://carbon-emission-predictor.netlify.app/) |
 | 📺 **[PlayList Pilot](https://github.com/Ank0it/PlayList-Pilot)** | Binge-watch YouTube playlists with progress tracking | `TypeScript` `React` `YouTube API` | [Visit →](https://play-list-pilot.vercel.app/) |
 | 👗 **[Sewna Reimagined](https://github.com/Ank0it/Sewna-Reimagined-)** | Connect with fashion designers for custom outfits | `JavaScript` `React` `Node.js` | [Visit →](https://sewna-reimagined.vercel.app/) |
-| 💬 **[Chatbot](https://github.com/Ank0it/Chatbot)** | Smart chatbot powered by LangChain & Google Gemini | `Python` `LangChain` `Gemini` | - |
+| 🤖 **[LangChain Multi-Agent](https://github.com/Ank0it/langchain-multi-agent)** | Multi-tool AI agent with intelligent reasoning across Wikipedia, ArXiv & custom docs | `Python` `LangChain` `FAISS` | - |
+| 📚 **[Simple RAG Pipeline](https://github.com/Ank0it/simple-rag-pipeline)** | Lightweight RAG system with semantic search & vector embeddings | `Python` `LangChain` `Chroma` | - |
+| ✍️ **[Creative AI API](https://github.com/Ank0it/create-ai-api)** | Turning ideas into essays and poems with AI magic | `Python` `LangChain` `FastAPI` | [Visit →](https://langserve-creative-ui.onrender.com/) |
+| 💬 **[LangChain Chatbot](https://github.com/Ank0it/langchain-Chatbot)** | Smart chatbot powered by LangChain & Google Gemini | `Python` `LangChain` `Gemini` | [Visit →](https://langchain-chatbot-33vs.onrender.com) |
 | 🧠 **[NLP Tokenization](https://github.com/Ank0it/NLP-Tokenization-)** | Advanced NLP tokenization experiments | `Jupyter` `Python` `NLP` | - |
 
 </div>
