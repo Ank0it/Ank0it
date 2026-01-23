@@ -375,7 +375,7 @@ console.log(`Currently: ${ankitPatel.status}`);
 
 ### 🐍 Contribution Snake Animation
 
-> **Note:** The snake animation will appear after you push these changes and GitHub Actions runs. In the meantime, here's your contribution graph:
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ank0it&theme=github-compact&hide_border=true&area=true" width="90%"/>
@@ -430,8 +430,6 @@ Next Up:
 ## 🏆 Beyond The Terminal
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200">
 
 <table>
 <tr>
