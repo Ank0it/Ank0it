@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ANKIT%20PATEL&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff" />
+# 👋 Hi, I'm Ankit Patel
 
-# 👋 Welcome to My Digital Space
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+AI+Engineer;Building+Production-Ready+Applications;CSE+%40+University+of+Lucknow+2026" alt="Typing SVG" />
+**Full-Stack Developer | AI Engineer | CSE @ University of Lucknow 2026**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ank0it&label=Profile+Views&color=brightgreen&style=flat-square" />
@@ -133,14 +131,6 @@ const ankit = {
 </tr>
 </table>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ank0it/Ank0it/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ank0it/Ank0it/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ank0it/Ank0it/output/github-snake-dark.svg">
-</picture>
-
 </div>
 
 ---
@@ -167,8 +157,6 @@ Location: Remote | Hybrid | On-site
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 **💜 Thanks for visiting!**
 
