@@ -1,165 +1,35 @@
-<div align="center">
+# Ankit Patel
 
-# 👋 Hi, I'm Ankit Patel
+Full-stack and software engineering candidate focused on building practical web applications, backend services, and AI-assisted products. I am pursuing Computer Science Engineering at the University of Lucknow, with hands-on work across React, Next.js, Node.js, FastAPI, Python, PostgreSQL, MongoDB, and LangChain.
 
-**Full-Stack Developer | AI Engineer | CSE @ University of Lucknow 2026**
+I like working on systems where product behavior, API design, data flow, and deployment all matter. My recent projects cover authentication services, e-commerce workflows, LLM-powered summarization, and agent-based retrieval tools.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ank0it&label=Profile+Views&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Ank0it?label=Followers&style=flat-square&color=blue&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square" />
-</p>
+## Core Skills
 
-</div>
+**Languages:** JavaScript, TypeScript, Python, C++, Java, SQL  
+**Frontend:** React, Next.js, HTML, CSS, responsive UI development  
+**Backend:** Node.js, Express, FastAPI, REST APIs, JWT authentication  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**AI/ML:** LangChain, Google Gemini API, FAISS, prompt engineering, ML pipelines  
+**Tools:** Git, Docker, Render, Netlify, Vercel
 
----
+## Featured Projects
 
-## 🚀 About Me
+| Project | Technical Summary | Stack |
+| --- | --- | --- |
+| [AI-SummarySage](https://github.com/Ank0it/AI-SummarySage) | LLM-powered summarization app with voice input, context-aware prompts, study-goal based output, and WhatsApp sharing. Built a FastAPI backend with a lightweight JavaScript frontend and deployed the client on Netlify. | JavaScript, FastAPI, Gemini API |
+| [FastAPI Auth Service](https://github.com/Ank0it/fastapi-auth-service) | Authentication service with JWT-based login flows, protected routes, PostgreSQL persistence, and production-oriented API structure. Designed as a reusable backend foundation for full-stack apps. | Python, FastAPI, PostgreSQL, JWT |
+| [Online Marketplace System](https://github.com/Ank0it/Online-Marketplace-System) | Full-stack marketplace with product listings, user flows, order/payment-oriented architecture, and MongoDB-backed data models. Focused on end-to-end e-commerce functionality rather than static UI only. | Node.js, Express, MongoDB |
+| [LangChain Multi-Agent](https://github.com/Ank0it/langchain-multi-agent) | Multi-tool AI agent that connects retrieval workflows with Wikipedia, ArXiv, FAISS, and LangChain orchestration. Demonstrates practical agent design, external tool use, and semantic search patterns. | Python, LangChain, FAISS |
 
-```javascript
-const ankit = {
-    role: "Full-Stack Developer & AI Engineer",
-    education: "CSE @ University of Lucknow (AI Specialization)",
-    graduating: 2026,
-    currentFocus: ["AI/ML Systems", "Cloud Architecture", "Scalable SaaS"],
-    languages: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
-    interests: ["LangChain", "FastAPI", "Next.js", "System Design"]
-};
-```
+## Problem Solving
 
-<div align="center">
+I also practice data structures, algorithms, and SQL through LeetCode, with 300+ solved problems across C++, MySQL, and Python.
 
-### 💻 Tech Stack
+## Contact
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+**Resume:** [Request resume by email](mailto:patel2712ankit@gmail.com?subject=Resume%20request%20-%20Ankit%20Patel)  
+**Portfolio:** [View project portfolio](https://github.com/Ank0it?tab=repositories)  
+**LinkedIn:** [linkedin.com/in/ankit-patel09](https://in.linkedin.com/in/ankit-patel09)  
+**Email:** [patel2712ankit@gmail.com](mailto:patel2712ankit@gmail.com)
 
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| 🤖 **[AI-SummarySage](https://github.com/Ank0it/AI-SummarySage)** | AI text summarization with voice input & WhatsApp sharing | `JS` `FastAPI` `AI` | [Demo](https://ai-summarysage.netlify.app/) |
-| 🔐 **[FastAPI Auth Service](https://github.com/Ank0it/fastapi-auth-service)** | Production authentication service with JWT | `Python` `FastAPI` `PostgreSQL` | [Demo](https://fastapi-auth-service.onrender.com) |
-| 🛒 **[Online Marketplace](https://github.com/Ank0it/Online-Marketplace-System)** | Full-stack e-commerce with payment integration | `Node.js` `MongoDB` | [Demo](https://e-commerce-4png.onrender.com/) |
-| 🤖 **[LangChain Multi-Agent](https://github.com/Ank0it/langchain-multi-agent)** | AI agent with Wikipedia & ArXiv integration | `Python` `LangChain` `FAISS` | [Code](https://github.com/Ank0it/langchain-multi-agent) |
-| 🌍 **[Carbon Predictor](https://github.com/Ank0it/Carbon-Emission-Predictor)** | ML-powered carbon footprint analyzer | `TypeScript` `Next.js` `ML` | [Demo](https://carbon-emission-predictor.netlify.app/) |
-| 🤝 **[Cypress Collab](https://github.com/Ank0it/Cypress-Collab---All-In-One-Collaboration-and-Productivity-Platform)** | Real-time collaboration platform | `TypeScript` `React` `WebSockets` | [Code](https://github.com/Ank0it/Cypress-Collab---All-In-One-Collaboration-and-Productivity-Platform) |
-
-<details>
-<summary><b>🔍 View More Projects</b></summary>
-<br>
-
-- 📺 **[PlayList Pilot](https://github.com/Ank0it/PlayList-Pilot)** - YouTube playlist manager | [Demo](https://play-list-pilot.vercel.app/)
-- 💬 **[LangChain Chatbot](https://github.com/Ank0it/langchain-Chatbot)** - AI chatbot with Gemini | [Demo](https://langchain-chatbot-33vs.onrender.com)
-- 👗 **[Sewna Reimagined](https://github.com/Ank0it/Sewna-Reimagined-)** - Fashion designer platform | [Demo](https://sewna-reimagined.vercel.app/)
-- 📚 **[Simple RAG Pipeline](https://github.com/Ank0it/simple-rag-pipeline)** - Semantic search with vectors
-- ✍️ **[Creative AI API](https://github.com/Ank0it/create-ai-api)** - Essay & poem generator | [Demo](https://langserve-creative-ui.onrender.com/)
-
-</details>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ank0it&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ank0it)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ank0it&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Ank0it&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank0it&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ank0it&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
-
-### 📊 Detailed Profile Stats
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ank0it&theme=radical" />
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ank0it&theme=radical" />
-</td>
-<td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ank0it&theme=radical" />
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ank0it&theme=radical" />
-</td>
-<td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ank0it&theme=radical" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💼 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-patel2712ankit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel2712ankit@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40Ank0it-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ank0it)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Ank0it)
-
-### 🎯 Open for Opportunities
-
-```yaml
-Roles: Full-Stack Developer | AI/ML Engineer | Software Engineer
-Skills: Web Development | AI/ML | System Design | Cloud Architecture
-Status: Available Immediately
-Location: Remote | Hybrid | On-site
-```
-
-</div>
-
----
-
-<div align="center">
-
-**💜 Thanks for visiting!**
-
-<sub>Last Updated: January 2026</sub>
-
-</div>
